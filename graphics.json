@@ -1,0 +1,25 @@
+[
+{"CUDA":"1024", "MEMCLOCK":"2.5GHz", "GLVER":"4.5", "TYPE":"LAPTOP", "PRODUCT":"GeForce GTX 965M", "BRAND":"NVIDIA"},
+{"CUDA":"640", "MEMCLOCK":"2.5GHz", "GLVER":"4.5", "TYPE":"LAPTOP", "PRODUCT":"GeForce GTX 960M", "BRAND":"NVIDIA"},
+{"CUDA":"3584", "MEMCLOCK":"11.0 Gbps", "GLVER":"4.5", "TYPE":"DESKTOP", "PRODUCT":"GeForce GTX 1080 Ti", "BRAND":"NVIDIA"},
+{"CUDA":"3072", "MEMCLOCK":"7.0 Gbps", "GLVER":"4.5", "TYPE":"DESKTOP", "PRODUCT":"GeForce GTX TITAN X", "BRAND":"NVIDIA"},
+{"CUDA":"192", "MEMCLOCK":"1.8 Gbps", "GLVER":"4.5", "TYPE":"DESKTOP", "PRODUCT":"GeForce GT 710", "BRAND":"NVIDIA"},
+
+{"CUDA":"2304", "MEMCLOCK":"8.1GHz", "GLVER":"4.5", "TYPE":"DESKTOP", "PRODUCT":"Radeon RX 580", "BRAND":"AMD"},
+{"CUDA":"2304", "MEMCLOCK":"2.0GHz", "GLVER":"4.5", TYPE":"DESKTOP", "PRODUCT":"Sapphire Radeon NITRO+ RX 580", "BRAND":"AMD"},
+{"CUDA":"160", "MEMCLOCK":"1.333GHz", "GLVER":"4.1", "TYPE":"DESKTOP", "PRODUCT":"Diamond Multimedia Radeon HD 6450", "BRAND":"AMD"},
+{"CUDA":"1024", "MEMCLOCK":"7.0GHz", "GLVER":"4.5", "TYPE":"DESKTOP", "PRODUCT":"Gigabyte Radeon RX 560", "BRAND":"AMD"},
+{"CUDA":"512", "MEMCLOCK":"7.0GHz", "GLVER":"N/A", "TYPE":"DESKTOP", "PRODUCT":"XFX Radeon RX 550", "BRAND":"AMD"},
+
+{"CUDA":"N/A", "MEMCLOCK":"1866MHz", "GLVER":"ES 3.2", "TYPE":"MOBILE", "PRODUCT":"Snapdragon 835", "BRAND":"Qualcomm"},
+{"CUDA":"N/A", "MEMCLOCK":"1866MHz", "GLVER":"ES 3.2", "TYPE":"MOBILE", "PRODUCT":"Snapdragon 821", "BRAND":"Qualcomm"},
+{"CUDA":"N/A", "MEMCLOCK":"1866MHz", "GLVER":"ES 3.2", "TYPE":"MOBILE", "PRODUCT":"Snapdragon 820", "BRAND":"Qualcomm"},
+{"CUDA":"N/A", "MEMCLOCK":"1600MHz", "GLVER":"ES 3.1", "TYPE":"MOBILE", "PRODUCT":"Snapdragon 810", "BRAND":"Qualcomm"},
+{"CUDA":"N/A", "MEMCLOCK":"800MHz", "GLVER":"ES 3.1", "TYPE":"MOBILE", "PRODUCT":"Snapdragon 805", "BRAND":"Qualcomm"},
+
+{"CUDA":"N/A", "MEMCLOCK":"1.8GHz", "GLVER":"4.4", "TYPE":"MOBILE", "PRODUCT":"Core i5-6260U", "BRAND":"Intel"},
+{"CUDA":"N/A", "MEMCLOCK":"2.8GHz", "GLVER":"4.4", "TYPE":"DESKTOP", "PRODUCT":"Core i5-6585R", "BRAND":"Intel"},
+{"CUDA":"N/A", "MEMCLOCK":"2.5GHz", "GLVER":"N/A", "TYPE":"SERVER", "PRODUCT":"Xeon E3-1565L v5", "BRAND":"Intel"},
+{"CUDA":"N/A", "MEMCLOCK":"3.3GHz", "GLVER":"4.4", "TYPE":"DESKTOP", "PRODUCT":"Core i7-6785R", "BRAND":"Intel"},
+{"CUDA":"N/A", "MEMCLOCK":"3.2GHz", "GLVER":"4.4", "TYPE":"DESKTOP", "PRODUCT":"Core i5-6685R", "BRAND":"Intel"}
+]
